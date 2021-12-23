@@ -4,8 +4,6 @@
         //url argument holds the absolute url of our plugin directory
         init : function(ed, url) {
 
-		
-	
 			
 		/////////////////////////////// YOUTUBE GALLERY - FRAME & STARTING VIDEO
 		/////////////////////////////// YOUTUBE GALLERY - FRAME & STARTING VIDEO
@@ -53,7 +51,7 @@
             return {
                 longname : "YouTube Gallery Shortcode Buttons",
                 author : "Greyforest Media",
-                version : "1.4"
+                version : "1.5"
             };
         }
     });

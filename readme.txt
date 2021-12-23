@@ -4,7 +4,7 @@ Donate link: https://www.paypal.me/greyforestmedia
 Tags: shortcodes, youtube, gallery
 Requires at least: 4.0
 Tested up to: 5.0.3
-Stable tag: 1.4
+Stable tag: 1.5
 License: None
 License URI: None
 
