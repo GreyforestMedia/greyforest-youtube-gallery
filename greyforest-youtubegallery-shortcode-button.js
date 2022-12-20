@@ -4,6 +4,8 @@
         //url argument holds the absolute url of our plugin directory
         init : function(ed, url) {
 
+		
+	
 			
 		/////////////////////////////// YOUTUBE GALLERY - FRAME & STARTING VIDEO
 		/////////////////////////////// YOUTUBE GALLERY - FRAME & STARTING VIDEO

@@ -3,7 +3,7 @@ Contributors: greyforest
 Donate link: https://www.paypal.me/greyforestmedia
 Tags: shortcodes, youtube, gallery
 Requires at least: 4.0
-Tested up to: 5.0.3
+Tested up to: 6.1.1
 Stable tag: 1.5
 License: None
 License URI: None
@@ -52,13 +52,14 @@ Code: [youtubegallery_thumbnail id="" title="" filter=""]
 == Screenshots ==
 
 1. Two buttons are added to the visual editor to quickly insert the shortcodes into a post or page.
-2. These are the shortcodes, one for a simple item with one price, and one for an item with multiple variations.
-3. An example of filled in shortcodes.
-4. The output is a simple button or button + select dropdown, easily styled with your own CSS.
-
 
 
 == Changelog ==
+
+= 1.5 =
+* Replaced javascript-based equalheight script for thumbnails with flex-based wrapper.
+* Removed /graphics directory.
+* Tested up to WordPress version 6.1.1.
 
 = 1.4 =
 * Added "View Details" link to view plugin settings and use tips.
